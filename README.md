@@ -4,7 +4,7 @@ I'm an urban planner and civil servant who works with public and civic data. I'm
 
 My background spans government, design, and non-profit. I led the development of the [2024 NYC Hazard Mitigation Plan](https://nychazardmitigation.com/documentation/nyc-hazard-mitigation-plan/) and have worked across policy, implementation, and government operations.
 
-Lately I've been building small, open, well-made tools on public data, the kind of things that should exist but don't.
+Lately I've been building small, open, well-made tools on public data.
 
 Always interested in connecting with people building tools for the public good.
 
